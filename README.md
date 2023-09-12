@@ -8,6 +8,6 @@ The average movie duration suggested movies have been getting shorter in the pas
 - Used for-loop to color code non-typical movies; passed back into scatter plot
 - Non-typical movies cluster around the bottom; cannot conclude that movies are getting shorter
 
-[*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office)
+[*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Investigating-Netflix-Movies.ipynb)
 ### 2. Data-Driven Product Management: Conducting a Market Analysis
 - Used data 
