@@ -18,9 +18,13 @@ The average movie duration suggested movies have been getting shorter in the pas
 [*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Data-Driven%20Product%20Management%3A%20Conducting%20a%20Market%20Analysis/Data-Driven-Product-Management-Market-Analysis.ipynb)
 
 ### 3. Real-time Insights from Social Media Data
-- Imported JSON file
+- Imported and cleaned JSON files containing API snapshots of Twitter data
+- Performed frequency analysis on users and hashtags
+- Manipulated data to visualize retweets to understand tweet popularity and impact
+- Deduced 'category' of people interested in trending topics, who most impacts the rise of hashtag popularity and the difference in impact between followers and engagement
 
-`Probability & Statistics` `API`
+`Data Manipulation` `Probability & Statistics` `API` 
+[*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Real-time%20Insights%20from%20Social%20Media%20Data/Real-time-Insights-Social-Media-Data.ipynb))
 
 ### 4. Predicting Credit Card Approvals
 
