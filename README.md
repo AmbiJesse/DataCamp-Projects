@@ -29,3 +29,5 @@ The average movie duration suggested movies have been getting shorter in the pas
 ### 4. Predicting Credit Card Approvals
 
 `Predictive Analytics`
+
+## 📊 Guided projects using sql
