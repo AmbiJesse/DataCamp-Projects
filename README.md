@@ -1,5 +1,7 @@
 # DataCamp
-## 🐍 Guided projects using python
+<img width="1122" alt="Screenshot 2023-09-14 at 11 46 04 PM" src="https://github.com/AmbiJesse/DataCamp-Projects/assets/21045393/df8e7270-7eaa-4aeb-bc2a-c36b2f585a4b">
+
+## 🐍 Guided projects using Python
 
 ### 1. Investigating Netflix Movies and Guest Stars in The Office
 The average movie duration suggested movies have been getting shorter in the past ten years.
@@ -30,4 +32,4 @@ The average movie duration suggested movies have been getting shorter in the pas
 
 `Predictive Analytics`
 
-## 📊 Guided projects using sql
+## 📊 Guided projects using SQL
