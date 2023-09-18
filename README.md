@@ -33,3 +33,6 @@ The average movie duration suggested movies have been getting shorter in the pas
 `Predictive Analytics`
 
 ## 📊 Guided projects using SQL
+
+### 1. Analyze International Debt Statistics
+
