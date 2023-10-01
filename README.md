@@ -35,4 +35,3 @@ The average movie duration suggested movies have been getting shorter in the pas
 ## 📊 Guided projects using SQL
 
 ### 1. Analyze International Debt Statistics
-- 
