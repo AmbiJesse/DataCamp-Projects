@@ -37,4 +37,4 @@ The average movie duration suggested movies have been getting shorter in the pas
 ### 1. Analyze International Debt Statistics
 - Used aggregate functions, alisasing, filtering techniques, and sorting to answer questions such as which country owes the most debt and what is average debt across different indicators.
 
-`SUM()` `MAX()` `WHERE` `GROUP BY` `ORDER BY` `LIMIT`
+`SUM()` `MAX()` `WHERE` `GROUP BY` `ORDER BY` `LIMIT` 
