@@ -29,6 +29,7 @@ The average movie duration suggested movies have been getting shorter in the pas
 [*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Real-time%20Insights%20from%20Social%20Media%20Data/Real-time-Insights-Social-Media-Data.ipynb)
 
 ### 4. Predicting Credit Card Approvals
+-
 
 `Predictive Analytics`
 
