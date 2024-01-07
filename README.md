@@ -42,3 +42,5 @@ The average movie duration suggested movies have been getting shorter in the pas
 
 ### 2. Analyzing Students' Mental Health
 - Aggregated summary statistics of mental health diagnostic tests of international students to visualize correlation with length of stay in study abroad.
+
+## ❄️ Guided projects using Snowflake
