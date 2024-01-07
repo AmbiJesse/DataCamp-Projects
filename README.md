@@ -44,3 +44,8 @@ The average movie duration suggested movies have been getting shorter in the pas
 - Aggregated summary statistics of mental health diagnostic tests of international students to visualize correlation with length of stay in study abroad.
 
 ## ❄️ Guided projects using Snowflake
+
+### 1. Exploring London's Travel Network
+- Use SQL to analyze database containing information about Transport for London journeys over 12 years.
+
+`Data Engineering` `Data Warehouse` `EDA`
