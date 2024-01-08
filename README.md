@@ -45,7 +45,7 @@ The average movie duration suggested movies have been getting shorter in the pas
 - Aggregated summary statistics of mental health diagnostic tests of international students to visualize correlation with length of stay in study abroad.
 [*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Analyzing%20Students'%20Mental%20Health/Analyze%20Student%20Health.ipynb)
 
-## ❄️ Guided projects using Snowflake
+## 🔍 Guided projects using BigQuery
 
 ### 1. Exploring London's Travel Network
 - Use SQL to analyze database containing information about Transport for London journeys over 12 years.
