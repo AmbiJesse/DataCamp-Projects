@@ -39,9 +39,11 @@ The average movie duration suggested movies have been getting shorter in the pas
 - Used aggregate functions, alisasing, filtering techniques, and sorting to answer questions such as which country owes the most debt and what is average debt across different indicators.
 
 `SUM()` `MAX()` `WHERE` `GROUP BY` `ORDER BY` `LIMIT` 
+[*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Analyze%20International%20Debt%20Statistics/International-Debt-Stats.ipynb)
 
 ### 2. Analyzing Students' Mental Health
 - Aggregated summary statistics of mental health diagnostic tests of international students to visualize correlation with length of stay in study abroad.
+[*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Analyzing%20Students'%20Mental%20Health/Analyze%20Student%20Health.ipynb)
 
 ## ❄️ Guided projects using Snowflake
 
