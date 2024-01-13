@@ -36,7 +36,7 @@ The average movie duration suggested movies have been getting shorter in the pas
 ## 📊 Guided projects using SQL
 
 ### 1. Analyze International Debt Statistics
-- Used aggregate functions, alisasing, filtering techniques, and sorting to answer questions such as which country owes the most debt and what is average debt across different indicators.
+- Used aggregate functions, aliasing, filtering techniques, and sorting to answer questions such as which country owes the most debt and what is average debt across different indicators.
 
 `SUM()` `MAX()` `WHERE` `GROUP BY` `ORDER BY` `LIMIT` 
 [*View my project here!*](https://github.com/AmbiJesse/DataCamp-Projects/blob/main/Analyze%20International%20Debt%20Statistics/International-Debt-Stats.ipynb)
